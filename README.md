@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Engineer from India</h3>
 
 - 🌱 I'm Shreyash Khote, a recent graduate with a Master of Science in Data Engineering 🎓. My passion lies in harnessing technology to tackle real-world problems and drive positive change. 💻🌍
-- 
+  
 - 🤝 🔍 Currently exploring the realms of data engineering, I bring a strong foundation in designing and optimizing data infrastructure. My goal is to leverage data-driven insights to make informed 
          decisions and create impactful solutions.
   
