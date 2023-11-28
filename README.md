@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shreyash</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
-- 🌱 I’m currently learning **Data science course**
+- 🌱 I’m Pursued Master Degere in **Data science**
 
-- 🤝 I’m looking for help with **Advance level of Data Engineering Projects**
+- 🤝 I’m looking for help with **Data Engineering Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khoteshreyash](https://github.com/khoteshreyash)
 
-- 💬 Ask me about **Python, Etl,Data Warehouse, SQL, Linux, AWS, power bi**
+- 💬 Ask me about **Python,ETL,Data Warehouse,Adv-Excel,SQL,Linux,EC2,S3,Lambda,Power bi**
 
 - 📫 How to reach me **shreyashkhote01@gmail.com**
 
