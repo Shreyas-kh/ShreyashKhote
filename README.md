@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">A passionate Data Engineer & Data Analyst from India</h3>
 
 - 🌱 I'm Shreyash Khote, a recent graduate with a Master of Science in Data Engineering 🎓. My passion lies in harnessing technology to tackle real-world problems and drive positive change. 💻🌍
   
@@ -9,7 +9,7 @@
 - 🚀 Excited about the intersection of technology and social impact, I am always eager to collaborate on projects that make a difference. Whether it's data pipelines, machine learning applications, or 
       anything in between, count me in!
 
-- 💬 Ask me about **Python,ETL,Data Warehouse,Adv-Excel,SQL,Linux,EC2,S3,Lambda,Power bi**
+- 💬 Ask me about **Python,ETL,Data Warehouse,Excel,SQL,Linux,EC2,S3,Lambda,Power bi,Tableau,Data lake**
 
 - 📫 How to reach me **shreyashkhote01@gmail.com**
 
