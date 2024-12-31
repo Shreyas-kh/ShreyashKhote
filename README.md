@@ -69,7 +69,7 @@ During my internship, I:
 ### [Project 1: Olist E-commerce Platform Analysis](https://github.com/Shreyas-kh/Olist-E-commerce-Platform-Analysis)
 An analysis of an e-commerce platform's dataset, where various business insights are derived using data analysis and visualization techniques to optimize sales and operations.
 
-### [Project 2: Project Management Dashboard](https://github.com/users/Shreyas-kh/projects/1)
+### [Project 2: Sentiment Analysis](https://github.com/users/Shreyas-kh/projects/1)
 A project management dashboard built to track and manage projects using data visualization tools. This dashboard helps to monitor project progress, tasks, and deadlines.
 
 ---
