@@ -66,10 +66,10 @@ During my internship, I:
 
 ## Projects
 
-### [Project 1: Data Engineering Pipeline](https://github.com/yourusername/project1)
+### [Project 1: Data Engineering Pipeline]([https://github.com/yourusername/project1](https://github.com/Shreyas-kh/Olist-E-commerce-Platform-Analysis-)
 A pipeline for data collection, transformation, and analysis using Python and AWS services like **EC2**, **S3**, and **Lambda**.
 
-### [Project 2: Sentiment Analysis](https://github.com/your-username/sentiment-analysis)
+### [Project 2: Sentiment Analysis]([https://github.com/your-username/sentiment-analysis](https://github.com/users/Shreyas-kh/projects/1)
 A project focused on analyzing text data to determine the sentiment (positive, negative, neutral) using natural language processing (NLP) techniques in Python.
 
 ---
