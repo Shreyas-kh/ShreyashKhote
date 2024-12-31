@@ -1,4 +1,4 @@
-# Shreyash Khote - Passionate about Data & Technology
+# Shreyash Khote - Passionate about Data & Technology 🌐
 
 ## About Me
 Hi! I'm **Shreyash Khote**, a passionate **Data Engineer** and **Data Analyst** from India.  
@@ -67,14 +67,14 @@ During my internship, I:
 ## Projects
 
 ### [Project 1: Olist E-commerce Platform Analysis](https://github.com/Shreyas-kh/Olist-E-commerce-Platform-Analysis)
-An analysis of an e-commerce platform's dataset, where various business insights are derived using data analysis and visualization techniques to optimize sales and operations.
+An analysis of an e-commerce platform's dataset, where various business insights are derived using data analysis and visualization techniques to optimize sales and operations📊.
 
 ### [Project 2: Sentiment Analysis](https://github.com/users/Shreyas-kh/projects/1)
-A project focused on analyzing text data to determine the sentiment (positive, negative, neutral) using natural language processing (NLP) techniques in Python.
+A project focused on analyzing text data to determine the sentiment (positive, negative, neutral) using natural language processing (NLP) techniques in Python 📉.
 
 ---
 
-## Contact
+## Contact📱
 
 - **Email**: [shreyashkhote01@gmail.com](mailto:shreyashkhote01@gmail.com)
 - **LinkedIn**: [linkedin.com/in/shreyashkhote01](https://www.linkedin.com/in/shreyashkhote01)
@@ -82,6 +82,6 @@ A project focused on analyzing text data to determine the sentiment (positive, n
 
 ---
 
-## Let's Connect!
+## Let's Connect!🖥️
 
 Feel free to reach out for discussions, collaborations, or just to exchange interesting ideas. I’m always open to new opportunities and ready for the next coding adventure!
