@@ -66,11 +66,11 @@ During my internship, I:
 
 ## Projects
 
-### [Project 1: Data Engineering Pipeline]([https://github.com/yourusername/project1](https://github.com/Shreyas-kh/Olist-E-commerce-Platform-Analysis-))
-A pipeline for data collection, transformation, and analysis using Python and AWS services like **EC2**, **S3**, and **Lambda**.
+### [Project 1: Olist E-commerce Platform Analysis](https://github.com/Shreyas-kh/Olist-E-commerce-Platform-Analysis)
+An analysis of an e-commerce platform's dataset, where various business insights are derived using data analysis and visualization techniques to optimize sales and operations.
 
-### [Project 2: Sentiment Analysis]([https://github.com/your-username/sentiment-analysis](https://github.com/users/Shreyas-kh/projects/1))
-A project focused on analyzing text data to determine the sentiment (positive, negative, neutral) using natural language processing (NLP) techniques in Python.
+### [Project 2: Project Management Dashboard](https://github.com/users/Shreyas-kh/projects/1)
+A project management dashboard built to track and manage projects using data visualization tools. This dashboard helps to monitor project progress, tasks, and deadlines.
 
 ---
 
