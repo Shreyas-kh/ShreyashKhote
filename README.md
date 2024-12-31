@@ -69,8 +69,8 @@ During my internship, I:
 ### [Project 1: Data Engineering Pipeline](https://github.com/yourusername/project1)
 A pipeline for data collection, transformation, and analysis using Python and AWS services like **EC2**, **S3**, and **Lambda**.
 
-### [Project 2: Data Analytics Dashboard](https://github.com/yourusername/project2)
-Built a **Power BI** dashboard to visualize **business metrics** and help stakeholders make data-driven decisions.
+### [Project 2: Sentiment Analysis](https://github.com/your-username/sentiment-analysis)
+A project focused on analyzing text data to determine the sentiment (positive, negative, neutral) using natural language processing (NLP) techniques in Python.
 
 ---
 
