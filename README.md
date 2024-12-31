@@ -46,7 +46,7 @@ These certifications have equipped me with a solid foundation in **data analysis
 ## Experience
 
 ### Data Analyst Associate | **Relay Human Cloud**
-*Date of Joining: [Month, Year]*
+*Date of Joining: [November, 2024]*
 
 As a **Data Analyst Associate**, I work on:
 - **Analyzing complex datasets** to identify trends and insights.
@@ -55,16 +55,16 @@ As a **Data Analyst Associate**, I work on:
 - **Building ETL pipelines** for data extraction, transformation, and loading, optimizing data flow between systems.
 
 ### Data Analyst Intern | **S4S Technologies**
-*Date of Internship: [Month, Year]*
+*Date of Internship: [Janvary, 2023]*
 
-During my internship, I:
+During my internship, :
 - Developed **automated data reports** to track key performance metrics.
 - Conducted **data cleaning** and transformation for better analysis.
 - Assisted in building **SQL queries** and analyzing data for business intelligence.
 
 ---
 
-## Projects
+## Projects 🎯
 
 ### [Project 1: Olist E-commerce Platform Analysis](https://github.com/Shreyas-kh/Olist-E-commerce-Platform-Analysis)
 An analysis of an e-commerce platform's dataset, where various business insights are derived using data analysis and visualization techniques to optimize sales and operations📊.
@@ -82,6 +82,6 @@ A project focused on analyzing text data to determine the sentiment (positive, n
 
 ---
 
-## Let's Connect!🖥️
+## Let's Connect 🖥️
 
 Feel free to reach out for discussions, collaborations, or just to exchange interesting ideas. I’m always open to new opportunities and ready for the next coding adventure!
