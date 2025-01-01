@@ -2,7 +2,7 @@
 
 ## About Me
 Hi! I'm **Shreyash Khote**, a passionate **Data Engineer** and **Data Analyst** from India.  
-I hold a **Master of Science in Data Engineering** and am committed to leveraging technology to solve real-world challenges and create positive change.
+I hold a **Master of Science in Data Science** and am committed to leveraging technology to solve real-world challenges and create positive change.
 
 ### Current Role:
 I am currently working as a **Data Analyst Associate** at **Relay Human Cloud**, where I apply my analytical skills to derive actionable insights and optimize business decision-making processes.
